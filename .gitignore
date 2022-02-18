@@ -1,0 +1,5 @@
+.env
+.cache
+logfile
+spotify_venv
+logfile
